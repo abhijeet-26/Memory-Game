@@ -8,5 +8,5 @@
 
 
 ## Demo
-<video src="/video/Memory Game - Google Chrome 2023-01-26 21-22-52.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://user-images.githubusercontent.com/68768410/215006646-11438b52-4c37-4df3-8cf8-c07964be2535.mp4
+
